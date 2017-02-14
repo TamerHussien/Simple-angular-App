@@ -1,0 +1,29 @@
+[
+  {
+    "id":1,
+    "name":"Tamer hussien",
+    "street":"abad elrahman",
+    "city":"Alexandia",
+    "state":"Alex",
+    "zip":"21923",
+    "phone":"01094043801"
+  },
+   {
+    "id":2,
+    "name":"Tamer hussien",
+    "street":"alreqa",
+    "city":"Dubai",
+    "state":"UAE",
+    "zip":"548962",
+    "phone":"0564404600"
+  },
+   {
+    "id":3,
+    "name":"Tamer hussien",
+    "street":"Mecca",
+    "city":"Jeddah",
+    "state":"KSA",
+    "zip":"145987",
+    "phone":"055469871"
+  }
+]

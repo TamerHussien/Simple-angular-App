@@ -1,0 +1,20 @@
+[
+{
+ "id":1,
+ "name" :"IT Support",
+ "description":"Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+ "image":"My%20Computer.png"
+},
+{
+ "id":2,
+ "name" :"Mean Stack",
+ "description":"Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+ "image":"My%20Computer.png"
+},
+{
+ "id":3,
+ "name" :"Javascript",
+ "description":"Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+ "image":"My%20Computer.png"
+}  
+]
